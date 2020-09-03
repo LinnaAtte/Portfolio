@@ -1,9 +1,7 @@
 # Portfolio
-Nettisivuja tehnyt wordpressiä avuksi käyttäen
+Olen harjoitellut nettisivujen tekemistä apuvälineitä hyväksikäyttäen. 
 
-Olen ollut mukana kehittämässä koodia kryptovaluutta botille joka ostaa/myy kryptovaluuttoja useilla eri alustoilla
-
-Kieliä joita olen käyttänyt
+Osaan näiden kielien alkeet:
 
 HTML,
 PHP,
