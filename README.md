@@ -1,5 +1,5 @@
 # Portfolio
-Nettisivuja tehnyt wordpressiä avuksi käyttäen
+Nettisivuja tehnyt wordpressiä avuksi käyttäen 
 Kieliä joita olen käyttänyt
 HTML
 PHP
