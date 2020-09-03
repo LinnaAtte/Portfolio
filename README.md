@@ -8,5 +8,5 @@ PHP,
 JavaScript,
 Java,
 C,
-C++,
+C++
 
